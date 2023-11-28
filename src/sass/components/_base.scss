@@ -12,6 +12,8 @@ body {
   padding: 0;
   background-color: $body-bg;
   background-image: url(/themes/MagneticMine2/images/magnetic-nymph-head.png);
+  background-repeat: no-repeat;
+  background-position: bottom left; 
   color: $text-color;
   font-family: $font-family-base;
   font-size: $font-size-base;
